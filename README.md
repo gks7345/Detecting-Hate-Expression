@@ -27,7 +27,5 @@ Train it with yolo and infer the learned result.
 
 Find the "hateful hand expression" by inference and output it to OpenCV.
 
-Translated with DeepL.com (free version)
-
 ## Demo
 ![test](https://github.com/gks7345/Detecting-Hate-Expression/assets/140896655/6b025a6e-fc8f-4a58-b394-d32362d5a04b)
